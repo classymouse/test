@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.thecrew2" version="2.0.0" name="[COLOR teal]THE CREW REPO 2[/COLOR]" provider-name="The Crew">
+<addon id="repository.thecrew2" version="2.0.1" name="[COLOR teal]THE CREW REPO 2[/COLOR]" provider-name="The Crew">
 	<extension point="xbmc.addon.repository" name="The Crew" >
 			<dir minversion="19.0.0">
 			<info compressed="false">https://raw.githubusercontent.com/classymouse/zips/master/matrix/_zip/addons.xml</info>
